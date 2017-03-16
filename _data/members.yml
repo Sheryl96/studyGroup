@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Sheryl 
+  affiliation: Mozilla Science
+  github: Sheryl96
   interests:
     - Programming
     - Open Science
+    - UI

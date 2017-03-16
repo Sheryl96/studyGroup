@@ -39,8 +39,8 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/b
 #========================================
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 4b00ff
-  secondary: fec503
+  primary: c7200d
+  secondary: 1772f0
   secondary-dark: 333
 
 # Build settings
